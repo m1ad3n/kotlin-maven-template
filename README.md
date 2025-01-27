@@ -1,4 +1,4 @@
-Kotlin Maven Template
+## Kotlin Maven Template
 
 This is a simple template for Kotlin projects using Maven as the build tool. It includes basic configurations for Kotlin development and testing with JUnit.
 
@@ -23,13 +23,13 @@ Getting Started
 
 2. Use Maven Wrapper to build and run the project:
 
-   ./mvnw compile exec:java
+   `./mvnw compile exec:java`
 
    For Windows, use mvnw.cmd instead of ./mvnw.
 
 3. Run tests:
 
-   ./mvnw test
+   `./mvnw test`
 
 Configuration
 
